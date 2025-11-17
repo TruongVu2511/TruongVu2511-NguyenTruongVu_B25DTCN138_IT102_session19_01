@@ -8,6 +8,7 @@ int countValue(int *arr, int n, int x) {
         }
     }
     return count;
+}
 int main() {
     int n, x;
     printf("Nhap so phan tu: ");
@@ -24,4 +25,5 @@ int main() {
 
     return 0;
 }
+
 
